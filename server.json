@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1001",
+      "title": "Processador Intel Core i3-9100F Coffee Lake, Cache 6MB, 3.6GHz (4.2GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I39100F",
+      "image_url": "https://images8.kabum.com.br/produtos/fotos/101918/processador-intel-core-i3-9100f-coffee-lake-cache-6mb-3-6ghz-4-2ghz-max-turbo-lga-1151-bx80684i39100f_processador-intel-core-i3-9100f-coffee-lake-cache-6mb-3-6ghz-4-2ghz-max-turbo-lga-1151-bx80684i39100f_1558965522_gg.jpg",
+      "price": 606.94
+    },
+    {
+      "id": "10012",
+      "title": "Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT Windforce OC 6G, 6GB, DDR6, Rev 2.0 - GV-R56XTWF2OC-6GD",
+      "image_url": "https://images6.kabum.com.br/produtos/fotos/113296/placa-de-video-gigabyte-amd-radeon-rx-5600-xt-windforce-oc-6g-6gb-ddr6-rev-2-0-gv-r56xtwf2oc-6gd_1591992427_gg.jpg",
+      "price": 2352.82
+    },
+    {
+      "id": "1003",
+      "title": "Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 OC, 6GB, GDDR6, REV 2.0 - GV-N2060OC-6GD",
+      "image_url": "https://images5.kabum.com.br/produtos/fotos/109805/placa-de-video-gigabyte-nvidia-geforce-rtx-2060-oc-6gb-gddr6-rev-2-0-gv-n2060oc-6gd_1580408234_gg.jpg",
+      "price": 2576.35
+    },
+    {
+      "id": "1004",
+      "title": "Cadeira Gamer Corsair T2 Road Warrior, Preto - CF-9010006",
+      "image_url": "https://images8.kabum.com.br/produtos/fotos/100938/100938_1553698630_index_gg.jpg",
+      "price": 2699.91
+    }
+  ]
+}
